@@ -1,0 +1,3 @@
+java -cp /home/hoang/release/hellomaven-0.0.1-SNAPSHOT.jar com.hoang.main.HelloMaven
+
+java -jar /home/hoang/release/gs-rest-service-0.1.0.jar
